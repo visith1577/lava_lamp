@@ -1,0 +1,12 @@
+C:\Users\visit\IdeaProjects\lava_lamp\target\debug\deps\gif-fde2ddd47d0d7320.rmeta: C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs
+
+C:\Users\visit\IdeaProjects\lava_lamp\target\debug\deps\libgif-fde2ddd47d0d7320.rlib: C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs
+
+C:\Users\visit\IdeaProjects\lava_lamp\target\debug\deps\gif-fde2ddd47d0d7320.d: C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs
+
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs:
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs:
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs:
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs:
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs:
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs:
